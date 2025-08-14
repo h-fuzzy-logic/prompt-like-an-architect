@@ -1,0 +1,1 @@
+All Amazon S3 buckets must have encryption enabled, enforce SSL, and block public access.
