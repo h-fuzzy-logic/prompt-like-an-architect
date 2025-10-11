@@ -19,11 +19,10 @@ Whether you're a **complete beginner** building your first product, launching a 
 
 ## 📖 Table of Contents
 
-- [What is Technical Architecture?](#what-is-technical-architecture)
-- [Architecture Domains](#architecture-domains)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [What is Technical Architecture?](#-what-is-technical-architecture)
+- [Architecture Domains](#-architecture-domains)
+- [Getting Started](#-getting-started)
+- [License](#-license)
 
 ## 📐 What is Technical Architecture?
 
@@ -59,7 +58,7 @@ Data architects design systems for collecting, storing, processing, and analyzin
 - **No prior architectural experience needed!** This guide is designed for beginners
 - Basic understanding of programming concepts (variables, functions, APIs)
 - Access to at least one AI coding assistant (GitHub Copilot, Claude, ChatGPT, Cursor, etc.)
-- A project idea you want to build (could be your first app, a side project, or POC)
+- Some experience using the AI coding assistant
 
 ### Quick Start
 1. Clone this repository
@@ -69,11 +68,11 @@ cd prompt-like-an-architect
 ```
 
 1. Browse the sample architectures
-1. Adapt the examples to your specific use case
+1. When you find one of interest, start with README
 
 ## 🤔 Why Architecture Skills Are Hard to Learn
 
-Learning architecture is uniquely challenging because:
+Learning architecture is challenging because:
 
 - **Delayed feedback**: The impact of architectural decisions often isn't visible until months or years later
 - **Experience gap**: It takes years of making (and recovering from) mistakes to develop intuition
